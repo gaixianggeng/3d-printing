@@ -1,0 +1,88 @@
+{
+    "error_string": "Success.",
+    "export_time": 653,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 53,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 1.689346194267273,
+                "Custom": 403.5669250488281,
+                "Flush": 26.0,
+                "Gap infill": 1.0824998617172241,
+                "Inner wall": 79.62247467041016,
+                "Internal solid infill": 11.76954174041748,
+                "Outer wall": 74.43537139892578,
+                "Top surface": 5.131756782531738,
+                "Travel": 38.297550201416016,
+                "Undefined": 30.811580657958984
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 0.33630308508872986,
+                    "total_used_g": 0.33630308508872986
+                }
+            ],
+            "generate_support_material_time": 8,
+            "id": 1,
+            "infill_time": 50,
+            "layer_filament_change": 0,
+            "main_predication": 186.03094482421875,
+            "make_perimeters_time": 90,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 9.851839065551758,
+                        "height": 9.600000381469727,
+                        "width": 9.851840019226074,
+                        "x": 127.07244873046875,
+                        "y": 125.66345977783203,
+                        "z": 0.0
+                    },
+                    "id": 79,
+                    "name": "trial_D2.80_head7.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 8.371959686279297,
+                        "height": 9.600000381469727,
+                        "width": 8.37195873260498,
+                        "x": 119.31591033935547,
+                        "y": 126.90312957763672,
+                        "z": 0.0
+                    },
+                    "id": 68,
+                    "name": "trial_D2.70_head6.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 4.999999046325684,
+                        "height": 9.600000381469727,
+                        "width": 5.000001430511475,
+                        "x": 124.41661834716797,
+                        "y": 121.91249084472656,
+                        "z": 0.0
+                    },
+                    "id": 57,
+                    "name": "trial_D2.60_head5.stl",
+                    "triangle_count": 1728
+                }
+            ],
+            "sliced_time": 469,
+            "sliced_time_with_cache": 304,
+            "total_predication": 634.1118774414063,
+            "triangle_count": 5184,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "wall_loops": 4
+}

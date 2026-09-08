@@ -1,0 +1,37 @@
+{
+  "parts": [
+    "02_Tablet_cradle.stl"
+  ],
+  "estimated_minutes": 97.8,
+  "estimated_grams": 43.68,
+  "warning": "",
+  "extrusion_endpoint_bounds": {
+    "X": [
+      16.415,
+      236.391
+    ],
+    "Y": [
+      47.315,
+      207.62
+    ],
+    "Z": [
+      0.2,
+      25.8
+    ]
+  },
+  "first_layer_endpoint_bounds": {
+    "X": [
+      16.415,
+      236.391
+    ],
+    "Y": [
+      47.315,
+      207.62
+    ]
+  },
+  "archive_crc": "passed",
+  "support_enabled": true,
+  "support_type": "normal(auto)",
+  "brim_mm": "8",
+  "scope": "Slicer checks and extrusion endpoints; not a physical print validation."
+}

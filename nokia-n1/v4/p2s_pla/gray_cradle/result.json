@@ -1,0 +1,69 @@
+{
+    "error_string": "Success.",
+    "export_time": 545,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 11,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 4.380326271057129,
+                "Bridge": 191.47840881347656,
+                "Brim": 187.54226684570313,
+                "Custom": 402.8612365722656,
+                "Flush": 26.0,
+                "Gap infill": 55.91570281982422,
+                "Inner wall": 1392.1968994140625,
+                "Internal solid infill": 282.101806640625,
+                "Outer wall": 749.6203002929688,
+                "Overhang wall": 215.6661834716797,
+                "Sparse infill": 684.7937622070313,
+                "Support": 771.3846435546875,
+                "Support interface": 100.14747619628906,
+                "Support transition": 76.43377685546875,
+                "Top surface": 92.12223052978516,
+                "Travel": 644.3167114257813,
+                "Undefined": 637.6407470703125
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 43.68475341796875,
+                    "total_used_g": 43.68475341796875
+                }
+            ],
+            "generate_support_material_time": 145,
+            "id": 1,
+            "infill_time": 124,
+            "layer_filament_change": 0,
+            "main_predication": 5422.28076171875,
+            "make_perimeters_time": 124,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 151.79998779296875,
+                        "height": 25.700008392333984,
+                        "width": 212.80113220214844,
+                        "x": 21.599424362182617,
+                        "y": 52.10000228881836,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "02_Tablet_cradle.stl",
+                    "triangle_count": 10082
+                }
+            ],
+            "sliced_time": 765,
+            "sliced_time_with_cache": 345,
+            "total_predication": 5870.4658203125,
+            "triangle_count": 10082,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "wall_loops": 3
+}

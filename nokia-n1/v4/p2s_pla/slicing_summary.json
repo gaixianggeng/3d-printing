@@ -1,0 +1,26 @@
+{
+  "fit_trial": {
+    "file": "n1_v4_fit_trial_P2S_PLA.3mf",
+    "estimated_minutes": 103.1,
+    "estimated_grams": 45.55,
+    "first_layer_bbox_mm": [
+      16.186300000000003,
+      32.687360000000005,
+      236.61933000000002,
+      219.84843
+    ],
+    "package_crc": "passed"
+  },
+  "front": {
+    "file": "n1_v4_front_P2S_PLA.3mf",
+    "estimated_minutes": 479.0,
+    "estimated_grams": 230.75,
+    "first_layer_bbox_mm": [
+      5.3800300000000005,
+      5.376250000000001,
+      250.61421,
+      250.61918000000003
+    ],
+    "package_crc": "passed"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "count": 3,
+  "grams": 0.34,
+  "minutes": 10.6,
+  "solid_toolpath": true,
+  "support": false,
+  "extrusion_bounds_mm": {
+    "X": [
+      120.721,
+      135.281
+    ],
+    "Y": [
+      122.123,
+      133.872
+    ],
+    "Z": [
+      0.2,
+      9.6
+    ]
+  },
+  "warning": ""
+}

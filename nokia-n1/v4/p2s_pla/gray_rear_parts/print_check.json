@@ -1,0 +1,28 @@
+{
+  "parts": [
+    "06_Rear_easel.stl",
+    "03_Left_rear_cover.stl",
+    "04_Right_rear_cover.stl"
+  ],
+  "estimated_grams": 119.35,
+  "estimated_minutes": 198.3,
+  "color": "#808080",
+  "support_enabled": true,
+  "filament_change_times": 0,
+  "extrusion_endpoint_bounds_mm": {
+    "X": [
+      12.815,
+      243.185
+    ],
+    "Y": [
+      28.312,
+      225.186
+    ],
+    "Z": [
+      0.2,
+      68.2
+    ]
+  },
+  "archive_crc": "passed",
+  "slicer_warning": ""
+}

@@ -1,0 +1,19 @@
+{
+  "keepers": [
+    {
+      "part": "05_Top_keeper_-1.stl",
+      "bed_contact_area_mm2": 180.96,
+      "upper_face_area_mm2": 50.0,
+      "height_mm": 9.100001335144043
+    },
+    {
+      "part": "05_Top_keeper_1.stl",
+      "bed_contact_area_mm2": 180.96,
+      "upper_face_area_mm2": 50.0,
+      "height_mm": 9.100001335144043
+    }
+  ],
+  "unsupported_slice_return_code": 0,
+  "unsupported_slice_warning": "",
+  "note": "Keeper STL only rotated; assembly geometry unchanged."
+}

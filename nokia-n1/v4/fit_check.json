@@ -1,0 +1,94 @@
+{
+  "six_direction_limit_check": {
+    "nominal": {},
+    "left": {
+      "02_Tablet_cradle": 239.532
+    },
+    "right": {
+      "02_Tablet_cradle": 281.034
+    },
+    "down": {
+      "01_Continuous_front": 1.771,
+      "02_Tablet_cradle": 458.475
+    },
+    "up": {
+      "01_Continuous_front": 4.721,
+      "02_Tablet_cradle": 328.561
+    },
+    "forward": {
+      "01_Continuous_front": 2371.634
+    },
+    "back": {
+      "02_Tablet_cradle": 73.44,
+      "05_Top_keeper_-1": 20.0,
+      "05_Top_keeper_1": 20.0
+    }
+  },
+  "button_access_channels": {
+    "volume": {},
+    "power": {}
+  },
+  "assembly_path_samples": [
+    {
+      "stage": "tablet_to_front",
+      "rear_offset_mm": 70,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "tablet_to_front",
+      "rear_offset_mm": 30,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "tablet_to_front",
+      "rear_offset_mm": 12,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "tablet_to_front",
+      "rear_offset_mm": 6,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "tablet_to_front",
+      "rear_offset_mm": 2,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "tablet_to_front",
+      "rear_offset_mm": 0,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "cradle_over_tablet",
+      "rear_offset_mm": 70,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "cradle_over_tablet",
+      "rear_offset_mm": 30,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "cradle_over_tablet",
+      "rear_offset_mm": 12,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "cradle_over_tablet",
+      "rear_offset_mm": 6,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "cradle_over_tablet",
+      "rear_offset_mm": 2,
+      "intersection_mm3": 0
+    },
+    {
+      "stage": "cradle_over_tablet",
+      "rear_offset_mm": 0,
+      "intersection_mm3": 0
+    }
+  ],
+  "scope": "Nominal CAD geometry only; button sizes estimated from photos, actual fit and strength unverified."
+}

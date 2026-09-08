@@ -1,0 +1,29 @@
+{
+  "parts": [
+    "07_Main_dial.stl",
+    "08_Button_1.stl",
+    "08_Button_2.stl",
+    "08_Button_3.stl"
+  ],
+  "estimated_grams": 5.26,
+  "estimated_minutes": 19.1,
+  "color": "#FFFFFF",
+  "support_enabled": false,
+  "filament_change_times": 0,
+  "extrusion_endpoint_bounds_mm": {
+    "X": [
+      99.444,
+      156.556
+    ],
+    "Y": [
+      97.192,
+      158.818
+    ],
+    "Z": [
+      0.2,
+      12.6
+    ]
+  },
+  "archive_crc": "passed",
+  "slicer_warning": ""
+}

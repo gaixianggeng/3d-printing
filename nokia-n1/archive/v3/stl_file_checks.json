@@ -1,0 +1,112 @@
+[
+  {
+    "file": "01_Continuous_front.stl",
+    "triangles": 99318,
+    "bounds_mm": [
+      233.9,
+      233.9,
+      154.0
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "02_Tablet_cradle.stl",
+    "triangles": 9862,
+    "bounds_mm": [
+      212.8,
+      151.8,
+      14.0
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "03_Left_rear_cover.stl",
+    "triangles": 662,
+    "bounds_mm": [
+      51.6,
+      151.8,
+      2.4
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "04_Right_rear_cover.stl",
+    "triangles": 698,
+    "bounds_mm": [
+      51.6,
+      151.8,
+      2.4
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "05_Top_keeper_-1.stl",
+    "triangles": 418,
+    "bounds_mm": [
+      12.0,
+      16.0,
+      9.1
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "05_Top_keeper_1.stl",
+    "triangles": 418,
+    "bounds_mm": [
+      12.0,
+      16.0,
+      9.1
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "06_Rear_easel.stl",
+    "triangles": 2676,
+    "bounds_mm": [
+      216.0,
+      57.808,
+      68.2
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "07_Main_dial.stl",
+    "triangles": 3328,
+    "bounds_mm": [
+      40.0,
+      40.0,
+      12.65
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "08_Button_1.stl",
+    "triangles": 1276,
+    "bounds_mm": [
+      7.0,
+      7.0,
+      6.35
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "08_Button_2.stl",
+    "triangles": 1276,
+    "bounds_mm": [
+      7.0,
+      7.0,
+      6.35
+    ],
+    "min_z": 0.0
+  },
+  {
+    "file": "08_Button_3.stl",
+    "triangles": 1276,
+    "bounds_mm": [
+      7.0,
+      7.0,
+      6.35
+    ],
+    "min_z": 0.0
+  }
+]

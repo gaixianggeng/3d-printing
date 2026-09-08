@@ -1,0 +1,26 @@
+{
+  "parts": [
+    "02_Tablet_cradle.stl"
+  ],
+  "estimated_grams": 43.68,
+  "estimated_minutes": 97.8,
+  "color": "#808080",
+  "support_enabled": true,
+  "filament_change_times": 0,
+  "extrusion_endpoint_bounds_mm": {
+    "X": [
+      16.415,
+      236.391
+    ],
+    "Y": [
+      47.315,
+      207.62
+    ],
+    "Z": [
+      0.2,
+      25.8
+    ]
+  },
+  "archive_crc": "passed",
+  "slicer_warning": ""
+}

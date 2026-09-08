@@ -1,0 +1,158 @@
+{
+  "blender": "5.2.1 LTS",
+  "part_count": 11,
+  "parts": [
+    {
+      "part": "01_Continuous_front",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 115579.81,
+      "print_bounds_mm": [
+        233.92,
+        233.92,
+        154.0
+      ],
+      "fits_256_bed": true,
+      "file": "stl/01_Continuous_front.stl",
+      "orientation": "Upright, Z rotation 45 degrees; 8 mm brim and window support required.",
+      "bounds_with_8mm_brim": [
+        249.92,
+        249.92
+      ]
+    },
+    {
+      "part": "02_Tablet_cradle",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 45734.85,
+      "print_bounds_mm": [
+        212.8,
+        151.8,
+        14.0
+      ],
+      "fits_256_bed": true,
+      "file": "stl/02_Tablet_cradle.stl"
+    },
+    {
+      "part": "03_Left_rear_cover",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 18743.25,
+      "print_bounds_mm": [
+        51.6,
+        151.8,
+        2.4
+      ],
+      "fits_256_bed": true,
+      "file": "stl/03_Left_rear_cover.stl"
+    },
+    {
+      "part": "05_Top_keeper_-1",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 795.49,
+      "print_bounds_mm": [
+        12.0,
+        16.0,
+        9.1
+      ],
+      "fits_256_bed": true,
+      "file": "stl/05_Top_keeper_-1.stl"
+    },
+    {
+      "part": "04_Right_rear_cover",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 18214.29,
+      "print_bounds_mm": [
+        51.6,
+        151.8,
+        2.4
+      ],
+      "fits_256_bed": true,
+      "file": "stl/04_Right_rear_cover.stl"
+    },
+    {
+      "part": "05_Top_keeper_1",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 795.49,
+      "print_bounds_mm": [
+        12.0,
+        16.0,
+        9.1
+      ],
+      "fits_256_bed": true,
+      "file": "stl/05_Top_keeper_1.stl"
+    },
+    {
+      "part": "06_Rear_easel",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 85903.43,
+      "print_bounds_mm": [
+        216.0,
+        57.81,
+        68.2
+      ],
+      "fits_256_bed": true,
+      "file": "stl/06_Rear_easel.stl"
+    },
+    {
+      "part": "07_Main_dial",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 7700.55,
+      "print_bounds_mm": [
+        40.0,
+        40.0,
+        12.65
+      ],
+      "fits_256_bed": true,
+      "file": "stl/07_Main_dial.stl"
+    },
+    {
+      "part": "08_Button_1",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 115.53,
+      "print_bounds_mm": [
+        7.0,
+        7.0,
+        6.35
+      ],
+      "fits_256_bed": true,
+      "file": "stl/08_Button_1.stl"
+    },
+    {
+      "part": "08_Button_2",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 115.53,
+      "print_bounds_mm": [
+        7.0,
+        7.0,
+        6.35
+      ],
+      "fits_256_bed": true,
+      "file": "stl/08_Button_2.stl"
+    },
+    {
+      "part": "08_Button_3",
+      "non_manifold_edges": 0,
+      "connected_components": 1,
+      "volume_mm3": 115.53,
+      "print_bounds_mm": [
+        7.0,
+        7.0,
+        6.35
+      ],
+      "fits_256_bed": true,
+      "file": "stl/08_Button_3.stl"
+    }
+  ],
+  "failed_parts": [],
+  "tablet_collisions": [],
+  "part_collisions": [],
+  "scope": "Mesh topology, positive volume, 256 mm XY bed bounds, tablet solid collision. Physical fit, strength and slicing are not validated."
+}

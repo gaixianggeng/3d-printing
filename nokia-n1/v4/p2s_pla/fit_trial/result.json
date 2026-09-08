@@ -1,0 +1,95 @@
+{
+    "error_string": "Success.",
+    "export_time": 1131,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 24,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 19.372791290283203,
+                "Bridge": 201.1038055419922,
+                "Brim": 242.60768127441406,
+                "Custom": 402.8811340332031,
+                "Flush": 26.0,
+                "Gap infill": 58.39541244506836,
+                "Inner wall": 1447.1375732421875,
+                "Internal solid infill": 321.5727844238281,
+                "Outer wall": 790.287353515625,
+                "Overhang wall": 215.66615295410156,
+                "Sparse infill": 704.1715698242188,
+                "Support": 771.0560302734375,
+                "Support interface": 99.98595428466797,
+                "Support transition": 76.35847473144531,
+                "Top surface": 103.13798522949219,
+                "Travel": 710.39794921875,
+                "Undefined": 703.7219848632813
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 45.54719924926758,
+                    "total_used_g": 45.54719924926758
+                }
+            ],
+            "generate_support_material_time": 153,
+            "id": 1,
+            "infill_time": 156,
+            "layer_filament_change": 0,
+            "main_predication": 5735.32470703125,
+            "make_perimeters_time": 240,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 151.79998779296875,
+                        "height": 25.700008392333984,
+                        "width": 212.80113220214844,
+                        "x": 21.59943389892578,
+                        "y": 64.10000610351563,
+                        "z": 0.0
+                    },
+                    "id": 57,
+                    "name": "02_Tablet_cradle.stl",
+                    "triangle_count": 10082
+                },
+                {
+                    "bbox": {
+                        "depth": 12.0,
+                        "height": 9.100001335144043,
+                        "width": 16.0,
+                        "x": 131.65650939941406,
+                        "y": 40.10000991821289,
+                        "z": 0.0
+                    },
+                    "id": 79,
+                    "name": "05_Top_keeper_1.stl",
+                    "triangle_count": 418
+                },
+                {
+                    "bbox": {
+                        "depth": 12.000001907348633,
+                        "height": 9.100001335144043,
+                        "width": 15.999996185302734,
+                        "x": 159.656494140625,
+                        "y": 40.099998474121094,
+                        "z": 0.0
+                    },
+                    "id": 68,
+                    "name": "05_Top_keeper_-1.stl",
+                    "triangle_count": 418
+                }
+            ],
+            "sliced_time": 1146,
+            "sliced_time_with_cache": 532,
+            "total_predication": 6183.52978515625,
+            "triangle_count": 10918,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "wall_loops": 3
+}

@@ -1,0 +1,153 @@
+{
+    "error_string": "Success.",
+    "export_time": 483,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 0,
+    "prepare_time": 168,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 2.0747103691101074,
+                "Custom": 403.5649719238281,
+                "Flush": 26.0,
+                "Gap infill": 3.0356364250183105,
+                "Inner wall": 153.7408447265625,
+                "Internal solid infill": 11.443376541137695,
+                "Outer wall": 180.44578552246094,
+                "Top surface": 6.850513458251953,
+                "Travel": 89.54405212402344,
+                "Undefined": 82.0580825805664
+            },
+            "filament_change_times": 0,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 0.7384144067764282,
+                    "total_used_g": 0.7384144067764282
+                }
+            ],
+            "generate_support_material_time": 14,
+            "id": 1,
+            "infill_time": 122,
+            "layer_filament_change": 0,
+            "main_predication": 421.1475830078125,
+            "make_perimeters_time": 203,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 7.037027359008789,
+                        "height": 9.600000381469727,
+                        "width": 7.037027359008789,
+                        "x": 134.9774169921875,
+                        "y": 134.9774169921875,
+                        "z": 0.0
+                    },
+                    "id": 146,
+                    "name": "pin_D2.60_1.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 7.037027359008789,
+                        "height": 9.600000381469727,
+                        "width": 7.037029266357422,
+                        "x": 127.9801254272461,
+                        "y": 134.9774169921875,
+                        "z": 0.0
+                    },
+                    "id": 157,
+                    "name": "pin_D2.60_2.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 7.037029266357422,
+                        "height": 9.600000381469727,
+                        "width": 7.037027359008789,
+                        "x": 134.9774169921875,
+                        "y": 127.9801254272461,
+                        "z": 0.0
+                    },
+                    "id": 168,
+                    "name": "pin_D2.60_3.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 7.037027359008789,
+                        "height": 9.600000381469727,
+                        "width": 7.0370306968688965,
+                        "x": 120.98283386230469,
+                        "y": 134.9774169921875,
+                        "z": 0.0
+                    },
+                    "id": 179,
+                    "name": "pin_D2.60_4.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 7.0370306968688965,
+                        "height": 9.600000381469727,
+                        "width": 7.037027359008789,
+                        "x": 134.9774169921875,
+                        "y": 120.98283386230469,
+                        "z": 0.0
+                    },
+                    "id": 190,
+                    "name": "pin_D2.60_5.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 7.037027359008789,
+                        "height": 9.600000381469727,
+                        "width": 7.037032127380371,
+                        "x": 113.98554229736328,
+                        "y": 134.9774169921875,
+                        "z": 0.0
+                    },
+                    "id": 201,
+                    "name": "pin_D2.60_6.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 7.037032127380371,
+                        "height": 9.600000381469727,
+                        "width": 7.037027359008789,
+                        "x": 134.9774169921875,
+                        "y": 113.98554229736328,
+                        "z": 0.0
+                    },
+                    "id": 212,
+                    "name": "pin_D2.60_7.stl",
+                    "triangle_count": 1728
+                },
+                {
+                    "bbox": {
+                        "depth": 5.000001907348633,
+                        "height": 9.600000381469727,
+                        "width": 5.0,
+                        "x": 126.80809020996094,
+                        "y": 129.34864807128906,
+                        "z": 0.0
+                    },
+                    "id": 223,
+                    "name": "pin_D2.60_8.stl",
+                    "triangle_count": 1728
+                }
+            ],
+            "sliced_time": 1183,
+            "sliced_time_with_cache": 819,
+            "total_predication": 869.2265625,
+            "triangle_count": 13824,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "wall_loops": 4
+}

@@ -1,0 +1,43 @@
+{
+  "parts": [
+    "06_Rear_easel.stl",
+    "03_Left_rear_cover.stl",
+    "04_Right_rear_cover.stl",
+    "07_Main_dial.stl",
+    "08_Button_1.stl",
+    "08_Button_2.stl",
+    "08_Button_3.stl"
+  ],
+  "estimated_minutes": 209.0,
+  "estimated_grams": 124.72,
+  "warning": "",
+  "extrusion_endpoint_bounds": {
+    "X": [
+      2.133,
+      254.185
+    ],
+    "Y": [
+      28.312,
+      225.186
+    ],
+    "Z": [
+      0.2,
+      68.2
+    ]
+  },
+  "first_layer_endpoint_bounds": {
+    "X": [
+      2.133,
+      254.185
+    ],
+    "Y": [
+      28.312,
+      225.186
+    ]
+  },
+  "archive_crc": "passed",
+  "support_enabled": true,
+  "support_type": "normal(auto)",
+  "brim_mm": "8",
+  "scope": "Slicer checks and extrusion endpoints; not a physical print validation."
+}

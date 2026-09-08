@@ -1,0 +1,282 @@
+[
+  {
+    "file": "v4/hero.png",
+    "sha256": "1dfd2ad7cedda2f6214d987107e8b788774890c36f38ee91a4a305f604cbc2bc"
+  },
+  {
+    "file": "v4/fit.png",
+    "sha256": "365a51e4ac3e5962b6676787f6110ad31aab7f4eb276e6e045f3e7e0c68ef3be"
+  },
+  {
+    "file": "v4/rear.png",
+    "sha256": "0492cb40553c36479e803a58ed26ebf963e7ea6abcdfbda6a8661f8fa594c03d"
+  },
+  {
+    "file": "v4/exploded.png",
+    "sha256": "2af900dd310dd3f3356bcf05cdd8d1ae347d93087371d99176fd22e8dee5e4e3"
+  },
+  {
+    "file": "v4/n1_reference_v4.blend",
+    "sha256": "aaa266b38dc778b0be2c35aab0aecc905c6697e959f22b445d5cccb48b6627ca"
+  },
+  {
+    "file": "v4/pins/full/n1_pins_full_P2S_PLA.3mf",
+    "sha256": "d87b98611de55e09e3fe4ee31c0a641108b2dd6ffc9c436e19211be10675148a"
+  },
+  {
+    "file": "v4/pins/full/cover_1_D2.70_L8.0.stl",
+    "sha256": "8614b67b086370a02c2a272f5fd9c2f0badf414e192b52cd7c566a35605ecc13"
+  },
+  {
+    "file": "v4/pins/full/keeper_1_D2.70_L8.0.stl",
+    "sha256": "e044193a687a491c82b1764bac42f551cbb72c4769380ba3474fe4034d607386"
+  },
+  {
+    "file": "v4/pins/full/cradle_2_D2.70_L12.0.stl",
+    "sha256": "7660ea7097db44ad61ce3b566d14c12f50c2b6e61961ab89c5dd0518125e5080"
+  },
+  {
+    "file": "v4/pins/full/cradle_3_D2.70_L12.0.stl",
+    "sha256": "7660ea7097db44ad61ce3b566d14c12f50c2b6e61961ab89c5dd0518125e5080"
+  },
+  {
+    "file": "v4/pins/full/cover_2_D2.70_L8.0.stl",
+    "sha256": "8614b67b086370a02c2a272f5fd9c2f0badf414e192b52cd7c566a35605ecc13"
+  },
+  {
+    "file": "v4/pins/full/keeper_2_D2.70_L8.0.stl",
+    "sha256": "e044193a687a491c82b1764bac42f551cbb72c4769380ba3474fe4034d607386"
+  },
+  {
+    "file": "v4/pins/full/cover_3_D2.70_L8.0.stl",
+    "sha256": "8614b67b086370a02c2a272f5fd9c2f0badf414e192b52cd7c566a35605ecc13"
+  },
+  {
+    "file": "v4/pins/full/stand_1_D2.70_L11.5.stl",
+    "sha256": "0a7a934b03a196f3cda8c4125b509eca967bf6ca8726c8139e53bdbdf0c1ac3e"
+  },
+  {
+    "file": "v4/pins/full/cover_4_D2.70_L8.0.stl",
+    "sha256": "8614b67b086370a02c2a272f5fd9c2f0badf414e192b52cd7c566a35605ecc13"
+  },
+  {
+    "file": "v4/pins/full/cradle_4_D2.70_L12.0.stl",
+    "sha256": "7660ea7097db44ad61ce3b566d14c12f50c2b6e61961ab89c5dd0518125e5080"
+  },
+  {
+    "file": "v4/pins/full/cradle_1_D2.70_L12.0.stl",
+    "sha256": "7660ea7097db44ad61ce3b566d14c12f50c2b6e61961ab89c5dd0518125e5080"
+  },
+  {
+    "file": "v4/pins/full/stand_2_D2.70_L11.5.stl",
+    "sha256": "0a7a934b03a196f3cda8c4125b509eca967bf6ca8726c8139e53bdbdf0c1ac3e"
+  },
+  {
+    "file": "v4/pins/trial/n1_pins_trial_P2S_PLA.3mf",
+    "sha256": "109d5ef976543cd82f1ac42e8966af3549cbb2599e4c6693fa556fa14a1abb20"
+  },
+  {
+    "file": "v4/pins/trial/trial_D2.60_head5.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial/trial_D2.80_head7.stl",
+    "sha256": "bec8a71d876b9de0416010134a10612f3e6ae9bb948301f5be46833b14387647"
+  },
+  {
+    "file": "v4/pins/trial/trial_D2.70_head6.stl",
+    "sha256": "8614b67b086370a02c2a272f5fd9c2f0badf414e192b52cd7c566a35605ecc13"
+  },
+  {
+    "file": "v4/pins/trial_2_6/n1_pin_D2.60_P2S_PLA.3mf",
+    "sha256": "10df046e0b8f335bb304704819009565c73db60a079c100e335aa7a2f76c564f"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_8.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/n1_pins_D2.60_x8_P2S_PLA.3mf",
+    "sha256": "187b7f45accdb23a45e000027b6b700d717135accf9c66044d791d5d246f403b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_1.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_3.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_2.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_6.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_7.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_5.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/pins/trial_2_6_x8/pin_D2.60_4.stl",
+    "sha256": "fdcd298373efa5e22a26819ce44a719dc3725d6eb48f0739b984219c0f37c50b"
+  },
+  {
+    "file": "v4/stl/04_Right_rear_cover.stl",
+    "sha256": "5181d84bea7f6811d7aec3a5c44208cbc552864bb2b6ba2fd58c3a56bc649758"
+  },
+  {
+    "file": "v4/stl/07_Main_dial.stl",
+    "sha256": "007407735df1d037638f36adce14a5db51d8ad9012c9f703cfe58ba71c931141"
+  },
+  {
+    "file": "v4/stl/05_Top_keeper_1.stl",
+    "sha256": "bb9f8e9b17de443a9679c36cb14bd595f99e31c2933ec799c0dbf93f4ec12c95"
+  },
+  {
+    "file": "v4/stl/08_Button_1.stl",
+    "sha256": "67fe4c24894e6efc4b86701fd0706d6c61523e2d03d886becb1dad86599360e6"
+  },
+  {
+    "file": "v4/stl/08_Button_2.stl",
+    "sha256": "67fe4c24894e6efc4b86701fd0706d6c61523e2d03d886becb1dad86599360e6"
+  },
+  {
+    "file": "v4/stl/08_Button_3.stl",
+    "sha256": "67fe4c24894e6efc4b86701fd0706d6c61523e2d03d886becb1dad86599360e6"
+  },
+  {
+    "file": "v4/stl/05_Top_keeper_-1.stl",
+    "sha256": "2baaa667b28427676c133917eca364abe67e615d2d537d95c4d3f41dee16be70"
+  },
+  {
+    "file": "v4/stl/03_Left_rear_cover.stl",
+    "sha256": "96a8b56631525aaad6f8ccfe83f1a23eff0ffe0519e215a6b58e8f9a04074d2f"
+  },
+  {
+    "file": "v4/stl/01_Continuous_front.stl",
+    "sha256": "91600205b5df737c6bf4763efa7f858bafbe771b67efb298a93a223e6a69a019"
+  },
+  {
+    "file": "v4/stl/06_Rear_easel.stl",
+    "sha256": "762d115ac312cf16e430fe8394ad27b4d196b30daf145f24ec0fc747954f919c"
+  },
+  {
+    "file": "v4/stl/02_Tablet_cradle.stl",
+    "sha256": "2b8bf1d4538e57f72178c36ba4a7276f3d3eafcc102aa9485a8eaea65335966c"
+  },
+  {
+    "file": "v4/p2s_pla/white_controls/n1_v4_white_controls_P2S_PLA.3mf",
+    "sha256": "1f6c6110a21229e2ba62b38b1023216909ee1a0db7092e96195455081c998602"
+  },
+  {
+    "file": "v4/p2s_pla/remaining_accessories/n1_v4_remaining_accessories_P2S_PLA.3mf",
+    "sha256": "c23d3bb4a6f6b8a40a83faa43325464983e08ab711527a00925fdf3e7911d524"
+  },
+  {
+    "file": "v4/p2s_pla/gray_rear_parts/n1_v4_gray_rear_parts_P2S_PLA.3mf",
+    "sha256": "5269c6e279b3cbe3c7b283600688b61d395f4aec7acde9581e27f0c7d98793c9"
+  },
+  {
+    "file": "v4/p2s_pla/cradle_replacement/n1_v4_cradle_replacement_P2S_PLA.3mf",
+    "sha256": "9303e613dfc0ad19fbaf2f8d42b8162c19f22136cac9a50943590f0df3da4a79"
+  },
+  {
+    "file": "v4/p2s_pla/fit_trial/n1_v4_fit_trial_P2S_PLA.3mf",
+    "sha256": "abca1ac294ff0d6130dcbb1b809969de9132ecb5aeba84d6c758faacf24a3491"
+  },
+  {
+    "file": "v4/p2s_pla/front/n1_v4_front_P2S_PLA.3mf",
+    "sha256": "b8ffb2a264544c35d6dde75e2f7ede80e7887fd311362f595d964b114d39e629"
+  },
+  {
+    "file": "v4/p2s_pla/gray_cradle/n1_v4_gray_cradle_P2S_PLA.3mf",
+    "sha256": "5f084d48284e31a8563fcec536a00703a02f64d1507022f11a91963009612691"
+  },
+  {
+    "file": "archive/v3/hero.png",
+    "sha256": "61d6eb942698efb1706f6f803c5b0c36686bae5656f713c9d883b9e98b16ff50"
+  },
+  {
+    "file": "archive/v3/reference_original.png",
+    "sha256": "6f22dd78e871213a11dd44b75b357b3a491255b45ac1c6939a79c5682bd82abc"
+  },
+  {
+    "file": "archive/v3/n1_reference_v3.blend",
+    "sha256": "65d58ba16cac039269624334092131ae5c4443824d53e89f6f53a967c0b45ddd"
+  },
+  {
+    "file": "archive/v3/rear.png",
+    "sha256": "f673c9b653d4e9bfe5c9719c5c71d930b82541ba6f4e0077a6da0ae0327aa6a7"
+  },
+  {
+    "file": "archive/v3/exploded.png",
+    "sha256": "a767f722f7203f2f9455aa606cd05af01b83739714454dda6e420cc297ad7b71"
+  },
+  {
+    "file": "archive/v3/n1_A4_1to1.pdf",
+    "sha256": "12001467375a803e7223aeb02f10545c310370ab363579bf02aff16fb17203e6"
+  },
+  {
+    "file": "archive/v3/front.png",
+    "sha256": "646cb4d6dd1ea8db6a0b77c5365de1e6e67337175f32914191847db5b19ffd73"
+  },
+  {
+    "file": "archive/v3/stl/04_Right_rear_cover.stl",
+    "sha256": "5181d84bea7f6811d7aec3a5c44208cbc552864bb2b6ba2fd58c3a56bc649758"
+  },
+  {
+    "file": "archive/v3/stl/07_Main_dial.stl",
+    "sha256": "007407735df1d037638f36adce14a5db51d8ad9012c9f703cfe58ba71c931141"
+  },
+  {
+    "file": "archive/v3/stl/05_Top_keeper_1.stl",
+    "sha256": "ade3040ef12097c575ce30796e86b5d065c69e1bb77684fa10f37e659d241dda"
+  },
+  {
+    "file": "archive/v3/stl/08_Button_1.stl",
+    "sha256": "67fe4c24894e6efc4b86701fd0706d6c61523e2d03d886becb1dad86599360e6"
+  },
+  {
+    "file": "archive/v3/stl/08_Button_2.stl",
+    "sha256": "67fe4c24894e6efc4b86701fd0706d6c61523e2d03d886becb1dad86599360e6"
+  },
+  {
+    "file": "archive/v3/stl/08_Button_3.stl",
+    "sha256": "67fe4c24894e6efc4b86701fd0706d6c61523e2d03d886becb1dad86599360e6"
+  },
+  {
+    "file": "archive/v3/stl/05_Top_keeper_-1.stl",
+    "sha256": "fbac6e18b3dc0de8783b74bdda0174cd3d19d1540366b8492522fc9229f2b7ad"
+  },
+  {
+    "file": "archive/v3/stl/03_Left_rear_cover.stl",
+    "sha256": "c2dcf467acb032bbcbc53879bdd7d2270f30c676dbbd3709b2999809a9172b44"
+  },
+  {
+    "file": "archive/v3/stl/01_Continuous_front.stl",
+    "sha256": "272201e2c2c157cc833298872913d18f81bfb16426a241a397350ab8a5d1ae3a"
+  },
+  {
+    "file": "archive/v3/stl/06_Rear_easel.stl",
+    "sha256": "762d115ac312cf16e430fe8394ad27b4d196b30daf145f24ec0fc747954f919c"
+  },
+  {
+    "file": "archive/v3/stl/02_Tablet_cradle.stl",
+    "sha256": "b5a454ae8292173e7c1457700fea627a55dd6b3201d46a79547200dabbabfa09"
+  },
+  {
+    "file": "archive/v3/p2s_pla/toolpath_top.png",
+    "sha256": "cca7b6e39092d47e2db0eb217f9ec4c8d5d0c1d20c8592fc1f9a779f4476780c"
+  },
+  {
+    "file": "archive/v3/p2s_pla/n1_front_P2S_PLA.3mf",
+    "sha256": "e83f54f8bd35e2feffd97470d69506832def9b26a212d04c551b53e4139a3ace"
+  }
+]

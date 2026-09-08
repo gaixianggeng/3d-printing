@@ -1,0 +1,438 @@
+{
+  "version": "0.7",
+  "units": "mm",
+  "source_sha256": "0229676cd3c2e6dd01c7c57dc30d49e7d4433a355825c6bc8148f8f1c15413ae",
+  "parts": {
+    "body": {
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -58.0,
+          -66.0,
+          0.0
+        ],
+        [
+          58.0,
+          58.0,
+          27.6
+        ]
+      ],
+      "extents_mm": [
+        116.0,
+        124.0,
+        27.6
+      ],
+      "volume_mm3": 57826.589,
+      "sha256": "324f27b0ea0dca1504f28555f2d32855d1e7c891f53abb9cf3a770a1d88b5da5"
+    },
+    "lid": {
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -58.0,
+          -58.0,
+          0.0
+        ],
+        [
+          58.0,
+          58.0,
+          19.1
+        ]
+      ],
+      "extents_mm": [
+        116.0,
+        116.0,
+        19.1
+      ],
+      "volume_mm3": 59337.341,
+      "sha256": "2ee0a027e9c8f785179bee6593f787618900b92836b23be1e8855498de2a4dc6"
+    },
+    "stand": {
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -54.0,
+          -54.0,
+          0.0
+        ],
+        [
+          54.0,
+          54.0,
+          60.0
+        ]
+      ],
+      "extents_mm": [
+        108.0,
+        108.0,
+        60.0
+      ],
+      "volume_mm3": 92198.051,
+      "sha256": "10b2105d80796127d4b4db1c5d84a4f37d607d6179996a464499b731fd66364b"
+    },
+    "fit_coupon": {
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -28.5,
+          -9.0,
+          0.0
+        ],
+        [
+          28.5,
+          9.0,
+          4.6
+        ]
+      ],
+      "extents_mm": [
+        57.0,
+        18.0,
+        4.6
+      ],
+      "volume_mm3": 4470.739,
+      "sha256": "4ba368b4cd714d50ba2a0e710ca4f4c3c3cc92ae936f43f61c2d215481ec495f"
+    },
+    "ear_fit_coupon": {
+      "watertight": true,
+      "connected_components": 1,
+      "bounds_mm": [
+        [
+          -14.35,
+          -24.1,
+          0.0
+        ],
+        [
+          14.35,
+          24.1,
+          11.38
+        ]
+      ],
+      "extents_mm": [
+        28.7,
+        48.2,
+        11.38
+      ],
+      "volume_mm3": 4851.328,
+      "sha256": "d3e0c41c3e0361b4fbbd267f16228061cda05d7c234ff7a909020b02bebb7ee8"
+    }
+  },
+  "checks": [
+    {
+      "name": "body_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "body_reference_envelopes",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "lid_reference_envelopes",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_-23.0_0_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_-23.0_0_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_-23.0_0_insertion",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "left_coupon_head_0",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_-23.0_1_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_-23.0_1_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_-23.0_1_insertion",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "left_coupon_head_1",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "stem_-1_seated_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "stem_-1_seated_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "left_coupon_stem_seated",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "clip_-1_0_entry_retention",
+      "expected": "blocked",
+      "intersection_mm3": 0.558856,
+      "passed": true
+    },
+    {
+      "name": "coupon_clip_0_entry_retention",
+      "expected": "blocked",
+      "intersection_mm3": 0.558858,
+      "passed": true
+    },
+    {
+      "name": "clip_-1_1_entry_retention",
+      "expected": "blocked",
+      "intersection_mm3": 0.558857,
+      "passed": true
+    },
+    {
+      "name": "coupon_clip_1_entry_retention",
+      "expected": "blocked",
+      "intersection_mm3": 0.558858,
+      "passed": true
+    },
+    {
+      "name": "ear_-23.0_raised_escape_position",
+      "expected": "blocked",
+      "intersection_mm3": 2803.49988,
+      "passed": true
+    },
+    {
+      "name": "ear_head_23.0_0_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_23.0_0_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_23.0_0_insertion",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_23.0_1_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_23.0_1_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "ear_head_23.0_1_insertion",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "stem_1_seated_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "stem_1_seated_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "clip_1_0_entry_retention",
+      "expected": "blocked",
+      "intersection_mm3": 0.558856,
+      "passed": true
+    },
+    {
+      "name": "clip_1_1_entry_retention",
+      "expected": "blocked",
+      "intersection_mm3": 0.558857,
+      "passed": true
+    },
+    {
+      "name": "ear_23.0_raised_escape_position",
+      "expected": "blocked",
+      "intersection_mm3": 2803.49988,
+      "passed": true
+    },
+    {
+      "name": "front_bars_support_synthetic_narrow_remote",
+      "expected": "blocked",
+      "intersection_mm3": 19.200007,
+      "passed": true
+    },
+    {
+      "name": "body_magnet_-51.55",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "body_magnet_51.55",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "lid_magnet_-51.55",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "lid_magnet_51.55",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "body_stand",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "lid_stand",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "internal_cable_route_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "internal_cable_route_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "internal_cable_route_stand",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "plug_straight_insertion_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "plug_straight_insertion_stand",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "splitter_body",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "name": "splitter_lid",
+      "expected": "clear",
+      "intersection_mm3": 0.0,
+      "passed": true
+    }
+  ],
+  "limits": [
+    "耳机头使用参考尺寸的局部矩形包络，耳机柄使用照片侧边位置的圆杆；不是实物扫描。",
+    "检查耳机头直线放入、圆杆落座及卡扣入口阻挡；没有仿真卡扣弹性和疲劳。",
+    "线控、Y 分线器、2.5 mm 线缆及 7 mm 插头检查直径为设计值，不是实测 EarPods 数据。",
+    "单耳槽放入、单卡扣大小及 5.30 mm 磁铁孔已获用户确认，双卡扣稳定性和整机合盖尚未确认。",
+    "未验证双卡扣实物、公差收缩、完整绕线、磁吸力度、整机打印和拾音效果。"
+  ],
+  "internal_cable": {
+    "bore_d_mm": 8.0,
+    "checked_plug_d_mm": 7,
+    "checked_wire_d_mm": 2.5,
+    "centerline_length_to_base_edge_mm": 124.675,
+    "bottom_slot_w_mm": 4.0,
+    "bottom_slot_h_mm": 3.5
+  },
+  "alignment": {
+    "head_to_base_center_offset_xy_mm": [
+      0.0,
+      0.0
+    ],
+    "passed": true
+  },
+  "ear_clearances_mm": {
+    "nominal_width_per_side": 2.5,
+    "rotated_width_per_side": 1.0,
+    "length_per_end": 1.6999999999999993,
+    "closed_depth": 20.0,
+    "rear_gap_after_0.8_pad_nominal": 1.7,
+    "rear_gap_after_0.8_pad_rotated": 4.7,
+    "actual_wall_height_above_front_floor": 8.98,
+    "closed_space_above_pocket_wall": 11.02
+  },
+  "clip_trial": {
+    "count_per_ear": 2,
+    "center_spacing_mm": 5.0,
+    "gap_between_clips_mm": 1.7999999999999998,
+    "bore_d_mm": 5.2,
+    "entry_w_mm": 4.4,
+    "wall_t_mm": 0.9,
+    "band_w_mm": 3.2,
+    "checked_stem_d_mm": 4.8,
+    "single_clip_size_user_confirmed": true,
+    "dual_clip_retention_verified": false
+  },
+  "user_fit_feedback": {
+    "magnet_hole_d_mm": 5.3,
+    "original_single_ear_pocket_fits": true,
+    "complete_closed_housing_verified": false
+  },
+  "passed": true
+}

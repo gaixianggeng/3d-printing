@@ -1,0 +1,10 @@
+{
+  "type": "process",
+  "name": "EarPods fit test P2S 0.20",
+  "inherits": "0.20mm Standard @BBL P2S",
+  "from": "user",
+  "instantiation": "true",
+  "wall_loops": "4",
+  "sparse_infill_density": "20%",
+  "enable_support": "0"
+}

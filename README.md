@@ -6,4 +6,6 @@
 
 - [EarPods 桌面麦克风支架](earpods-microphone-stand/README.md)：概念设计，含最终固定圆盘方案提示词与历史概念图；尚无打印模型。
 
+- [EarPods 磁吸支架](earpods-magnetic-stand/README.md)：v0.7 双卡扣模型，含 OpenSCAD、STL 与整机 P2S 打印工程。
+
 后续模型在仓库根目录新增独立目录，并提供自己的 README、源文件及打印参数。仓库协作约定见 [AGENTS.md](AGENTS.md)，整理范围见 [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md)。

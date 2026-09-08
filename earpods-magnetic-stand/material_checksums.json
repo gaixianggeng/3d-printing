@@ -1,0 +1,190 @@
+[
+  {
+    "file": "verify_model.py",
+    "sha256": "c6223394660b7a395eee295534c196c7c1ba474bbad9d120ff18b98cccba9001"
+  },
+  {
+    "file": "result.json",
+    "sha256": "d7974b3d0f18eee90101f0865425c0c2e82281e1736f0317c6616f733f38aae8"
+  },
+  {
+    "file": "archive/packages/earpods-stand-DRAFT.zip",
+    "sha256": "623062ade3a0785a65cd1cc8177503c270253e90b68d873b195a93d654c87e8c"
+  },
+  {
+    "file": "earpods_stand.scad",
+    "sha256": "0229676cd3c2e6dd01c7c57dc30d49e7d4433a355825c6bc8148f8f1c15413ae"
+  },
+  {
+    "file": "archive/packages/earpods-35mm-stand-v0.3.zip",
+    "sha256": "3c00a164c49fd7f93616e8ff1f5d25e533d99f7b085bcdbc772d4c019ffc4c21"
+  },
+  {
+    "file": "archive/packages/earpods-35mm-stand-v0.2.zip",
+    "sha256": "23760f7653b3b7db7e1d713fe5e01d325053dd49c163a2903c6a43ec12cde0c9"
+  },
+  {
+    "file": "archive/packages/earpods-35mm-stand-v0.6.zip",
+    "sha256": "30ed8154aa79302520af2dab1a6327523f1f2c5c2bfe4746496c8fd875c2e055"
+  },
+  {
+    "file": "archive/packages/earpods-35mm-stand-v0.7.zip",
+    "sha256": "2af98575832ee3fe3b47283d303d13f4aca03735e409d161b90395f280f02da4"
+  },
+  {
+    "file": "archive/packages/earpods-35mm-stand-v0.5.zip",
+    "sha256": "2496a4af9349630d8146fd52b7fa8d08b4d5d4fb3c0cbc61bacc392fec84b2e3"
+  },
+  {
+    "file": "archive/packages/earpods-35mm-stand-v0.4.zip",
+    "sha256": "b30de85fc478aa0f545978bd1cef278d33bd757628425e8150286cd55ce28645"
+  },
+  {
+    "file": "bambu-fit-test/filament-resolved.json",
+    "sha256": "f582ce7765eed6e17e1447eab617d1301e790fdd5601bf563cd275412bb18294"
+  },
+  {
+    "file": "bambu-fit-test/resolved-settings.json",
+    "sha256": "eb2c5c2fe37c81a1dd526384434d9a9fd30ec408afa53f0193f2d86f3095a5c5"
+  },
+  {
+    "file": "bambu-fit-test/machine-resolved.json",
+    "sha256": "6867182ef1b4e349f00fe9b4ef0d94ebe6689b46c6e1197214a5433d4038c1b1"
+  },
+  {
+    "file": "bambu-fit-test/process-resolved.json",
+    "sha256": "c4a78aab1be2b558872ec7627e7f42c252563a31d8502f3b6b6a7191f044dca2"
+  },
+  {
+    "file": "bambu-fit-test/plate-preview.png",
+    "sha256": "1aae14cbe5dc84caa7be9559ca934659d5a0f016da79b2d3dcf2d5f8ea7ab0b7"
+  },
+  {
+    "file": "bambu-fit-test/earpods-clip-trial-v0.6-P2S.3mf",
+    "sha256": "6dc8c2757cb56171432bb4913ca1631184f28a0003e20db631cea9bfc2baffaf"
+  },
+  {
+    "file": "bambu-fit-test/earpods-dual-clip-trial-v0.7-P2S.3mf",
+    "sha256": "bb62efea79673cd28219372a4854096299b0c351ea471bf9b5ce3140a525f7cb"
+  },
+  {
+    "file": "bambu-fit-test/earpods-fit-test-P2S.3mf",
+    "sha256": "5caf3f40447d036663e93ee650db957adb5ae2e8ff8d71d1bae025da2de0f8c1"
+  },
+  {
+    "file": "bambu-fit-test/process.json",
+    "sha256": "e93a539557c2ce7ee6dcd1f1e0ce6c1a59caa389b7878064f7e658d5ee2215bb"
+  },
+  {
+    "file": "bambu-fit-test/earpods-clip-trial-v0.6-P2S-sliced.3mf",
+    "sha256": "82b7cc770a2220b937bbd6428157fbe1723af8de11f7bd7d51e69d8331130a85"
+  },
+  {
+    "file": "exports/ear_fit_coupon.stl",
+    "sha256": "d3e0c41c3e0361b4fbbd267f16228061cda05d7c234ff7a909020b02bebb7ee8"
+  },
+  {
+    "file": "exports/fit_coupon.stl",
+    "sha256": "4ba368b4cd714d50ba2a0e710ca4f4c3c3cc92ae936f43f61c2d215481ec495f"
+  },
+  {
+    "file": "exports/body.stl",
+    "sha256": "324f27b0ea0dca1504f28555f2d32855d1e7c891f53abb9cf3a770a1d88b5da5"
+  },
+  {
+    "file": "exports/stand.stl",
+    "sha256": "10b2105d80796127d4b4db1c5d84a4f37d607d6179996a464499b731fd66364b"
+  },
+  {
+    "file": "exports/lid.stl",
+    "sha256": "2ee0a027e9c8f785179bee6593f787618900b92836b23be1e8855498de2a4dc6"
+  },
+  {
+    "file": "preview/lid_inside.png",
+    "sha256": "3c428679ecc74dd7a75cba6b5c826aea8fcf670c24aeea87453928854d823f79"
+  },
+  {
+    "file": "preview/single-ear-fit.png",
+    "sha256": "17e5154b517425ea846c9a874a379554ebb6fe027f6f0f28c58ad1404e173ea3"
+  },
+  {
+    "file": "preview/front_scene.scad",
+    "sha256": "ae2f710538028814daa7454e0a916991cbc865b6ff9eca78df778c0b7af91665"
+  },
+  {
+    "file": "preview/head_alignment.stl",
+    "sha256": "ecb5d9b9bc2e5bd2bcad8f8749cfec3b1af83b0981b39e55097574176caa3862"
+  },
+  {
+    "file": "preview/inside.png",
+    "sha256": "be9283c54b8470863148d4ae20512fdd2f333a2542e54d09533cfc8c38a279f4"
+  },
+  {
+    "file": "preview/side.png",
+    "sha256": "89a4b5cf3b684a14298238e5974727ffeef0b116298133886df5be96baf43aba"
+  },
+  {
+    "file": "preview/ear_clip_trial.png",
+    "sha256": "782be7390faa337dc797d3d76beada4283011a904dec6c97e9f149b717485b90"
+  },
+  {
+    "file": "preview/section.png",
+    "sha256": "78c87979f1aa7ed081296a0bd8faab951851ed7ef4948328aaed362931b88093"
+  },
+  {
+    "file": "preview/cable_check.scad",
+    "sha256": "c7eeed5743b1063b713a9034a9afb40452b5f77dd1afb69d268fd0762762f860"
+  },
+  {
+    "file": "preview/head_alignment.scad",
+    "sha256": "31b614bba8b0888c2c9da2294e67543f732b67152e811515574c810ccf96732a"
+  },
+  {
+    "file": "preview/cable_check.stl",
+    "sha256": "bfb0afc5cb025b440699bd0c8e5a54f9e14f1f1b497f50a366a5111b91aba568"
+  },
+  {
+    "file": "preview/exploded.png",
+    "sha256": "3e21607e0e46b5656cbcf1c5c8f4290df40dc9ed5eccb338e92bf838b934dd0a"
+  },
+  {
+    "file": "preview/front.png",
+    "sha256": "2679e78ad708ebb45713ea4e652d9de2f5c4a2589ba0be9cdc752e4b89dbccc9"
+  },
+  {
+    "file": "preview/envelopes.stl",
+    "sha256": "882846091cf11df6c834911f70400ee0ff77387510bc110b103cb36f9f36b075"
+  },
+  {
+    "file": "preview/geometry-check.json",
+    "sha256": "a789be95c4e0c163fcded63d67540d2c69fee7f6137b33df28bcdd20b2223cc1"
+  },
+  {
+    "file": "bambu-full-print/plate_1.png",
+    "sha256": "f1bffb5148801ad0c309f4a76354f5b5ebbb69f6d8ab5cac36b40794b65d5dbd"
+  },
+  {
+    "file": "bambu-full-print/earpods-full-v0.7-P2S-sliced.3mf",
+    "sha256": "8be48fc026dbb277e2e7da251519d8320de5c1564ac25804724eecb1565cc67c"
+  },
+  {
+    "file": "bambu-full-print/earpods-full-v0.7-P2S.3mf",
+    "sha256": "6ba0d4fe8e83c19954f5646bd0bdb4f8853ca03f7b43eaa7504f6834491ec294"
+  },
+  {
+    "file": "bambu-full-print/layout-base.3mf",
+    "sha256": "be30e176dc9b4cc0a583362d990c8279da54f085652bc389319f0939728a5007"
+  },
+  {
+    "file": "bambu-full-print/earpods-full-v0.7-P2S-ready.3mf",
+    "sha256": "fe426260af801f03669510b2766d32b7cf53c12649ff082735dc71bdc1d2c36a"
+  },
+  {
+    "file": "bambu-full-print/top_1.png",
+    "sha256": "bbd4d7543d23e8fa3187fdc239dd96f6eba966401969f887232519e69102bd74"
+  },
+  {
+    "file": "references/design-reference.png",
+    "sha256": "25d8360c2632793b126544833f8dcb3ed5ff892a502f3b5029e1bbf7fa019413"
+  }
+]

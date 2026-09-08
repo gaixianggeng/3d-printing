@@ -1,0 +1,46 @@
+[
+  {
+    "file": "archive/prompts/earpods-curved-latch-prompt.txt",
+    "sha256": "14181a9b60663bb504c0b917779e84703338d8fc8f0686526edb3f3fcfe4fb0b"
+  },
+  {
+    "file": "archive/prompts/earpods-desktop-microphone-prompt.txt",
+    "sha256": "278a8c688266c7e059803cb57f9eba4d76a42a7711f12df0b062e19ebf59cbe6"
+  },
+  {
+    "file": "archive/prompts/earpods-hollow-stand-prompts.txt",
+    "sha256": "7befc8467ad36b18c9b022e92b563344ab7c08369f20f5f1f2fb86b00a1de1d9"
+  },
+  {
+    "file": "archive/prompts/earpods-rams-inspired-prompt.txt",
+    "sha256": "1ed673e0301c7a9a6d6d5e0b446af9d433aea63ac91ba2305de25baff4126afb"
+  },
+  {
+    "file": "archive/concepts/exec-1e03ee7a-018a-419d-bc82-cc4e555720da.png",
+    "sha256": "f3c05e8ee3e8ef0d443688b91ca1bf3ae0e458d1dbc321bdb020e29bae4ea6d7"
+  },
+  {
+    "file": "archive/concepts/exec-22f94c24-4511-48c1-a769-6c693060354b.png",
+    "sha256": "ed5c174f908336fbcdb8c8d4ab288af7eea4e795a71b37a470a7d56814e2773d"
+  },
+  {
+    "file": "archive/concepts/exec-44e76358-f5b5-44d3-8717-29d918209d6a.png",
+    "sha256": "e6731c89688b7a0427a459618536c0dad561d345d6e990debaefcba795eac8d9"
+  },
+  {
+    "file": "archive/concepts/exec-4b7dd2c1-43c1-4928-9a36-9a1094da39b4.png",
+    "sha256": "e29de27d3fe8ad400db0618e22d6a823895bb7dd9bd450295ae3c14110e8a973"
+  },
+  {
+    "file": "archive/concepts/exec-9847c73e-d803-4564-a306-98cc9370a760.png",
+    "sha256": "d847a850c9c2a5e5c0756aa30c8af47ad5ef7e9acb83eb520ac033942deaec2b"
+  },
+  {
+    "file": "archive/concepts/exec-b54be4e5-9d4c-456d-9bce-5188bfc1175c.png",
+    "sha256": "9523e06f6c4063b775179ace80b781d79da49cf209545c392d79082d7b046c72"
+  },
+  {
+    "file": "archive/concepts/exec-cafc2764-9b6d-4667-b3ce-5dfb3d7c1805.png",
+    "sha256": "8114adb68c6181e74a8533890c782263f387b6abffe4f59a418968fecfa6d1fe"
+  }
+]

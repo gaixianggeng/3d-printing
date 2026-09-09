@@ -1,6 +1,6 @@
-# EarPods 桌面麦克风支架
+# EarPods 桌面麦克风支架：前期概念
 
-状态：本目录保存前期概念设计。后续任务的可打印模型已单独整理到 [EarPods 磁吸支架](../earpods-magnetic-stand/README.md)，模型状态与实测结果以该目录为准。
+状态：本目录保存前期概念设计。本项目的当前模型见 [项目入口](../README.md)，模型状态与实测结果以项目入口为准。
 
 ## 当前方案
 
@@ -8,7 +8,7 @@
 
 用户最后确认采用低底座、短支柱和固定圆盘。不使用可旋转支架。圆盘中央露出线控收音面，内部滑闩固定线控；两个耳塞与电线收在内部。整体参考迪特·拉姆斯的简洁几何造型。
 
-[最终完整提示词](prompts/fixed-disc-final.txt)是当前设计入口，可以复制给生图工具使用。它已从最后一版设计文本单独保存。
+[最终完整提示词](prompts/fixed-disc-final.txt)是概念阶段最终确认的提示词，可以复制给生图工具使用。它已从最后一版设计文本单独保存。
 
 提示词中的圆盘直径约 70 mm、厚 25～30 mm，底座直径约 85 mm、厚 12 mm，支柱外露高约 40 mm，均为外观比例建议，尚未按耳机实测尺寸验证。
 
@@ -34,7 +34,7 @@
 python3 - <<'PYCODE'
 import hashlib, json
 from pathlib import Path
-root = Path('earpods-microphone-stand')
+root = Path('earpods-magnetic-stand/concept')
 items = json.loads((root / 'material_checksums.json').read_text())
 for item in items:
     path = root / item['file']

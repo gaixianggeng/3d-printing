@@ -1,4 +1,4 @@
-# EarPods 3.5 mm 磁吸支架（双卡扣版 v0.7）
+# EarPods 桌面麦克风支架（磁吸后盖，v0.7）
 
 ## 归档入口（2026-09-08）
 
@@ -8,7 +8,7 @@
 - [OpenSCAD 参数源文件](earpods_stand.scad)及 [STL 零件](exports/)。
 - [双卡扣试件工程](bambu-fit-test/earpods-dual-clip-trial-v0.7-P2S.3mf)：已排版，未切片。
 - [几何检查结果](preview/geometry-check.json)、[预览图](preview/)及 [历史模型包](archive/packages/)。
-- [前期概念设计](../earpods-microphone-stand/README.md)。
+- [前期概念设计与提示词](concept/README.md)。
 
 原任务已打开整机工程，但没有记录发送打印或整机完成后的实测结果。命令行切片曾出现结束指令解析提示；使用整机工程时先在 Bambu Studio 重新切片，核对无报错后再打印。主体插舌下需局部支撑，内部走线孔应保持畅通。
 
